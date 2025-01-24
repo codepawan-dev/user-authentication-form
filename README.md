@@ -1,5 +1,5 @@
 # Login or sign up form
-### This login and sign-up form which is created using express.js and mongoose.js
+### This login and sign-up form which is created using express.js, mongoose.js and pug
 
 ### To run this code you need to install dependencies mention below
 
@@ -8,6 +8,9 @@
 
 ## Mongoose.js
 `npm install mongoose`
+
+## Pug
+`npm install pug`
 
 ## bcrypt
 `npm install bcrypt`
